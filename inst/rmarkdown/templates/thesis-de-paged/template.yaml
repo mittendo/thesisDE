@@ -1,0 +1,4 @@
+name: HTML German Thesis Document
+description: >
+   Create a paged German HTML thesis document based on Paged.js.
+create_dir: FALSE

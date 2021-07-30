@@ -1,0 +1,11 @@
+language:
+  label:
+    fig: 'Abbildung '
+    tab: 'Tabelle '
+  ui:
+    edit: Edit
+    chapter_name: 'Kapitel '
+    appendix_name: 'Anhang '
+    lot_name: 'Tabellenverzeichnis'
+    
+

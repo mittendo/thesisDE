@@ -1,0 +1,16 @@
+Package: thesisDE
+Type: Package
+Title: Template for writing BA-Theses in German 
+Version: 0.1.0
+Author: person("Volker", "Mittendorf", email="mittendo@uni-wuppertal.de", role=c("aut","cre"))
+Maintainer: Volker Mittendorf <mittendo@uni-wuppertal.de>
+Description: This package adds a template for writing BA-Theses at the Department of Polictical Science at BUW (Bergische Universität Wuppertal).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr,
+    tidyverse,
+    pagedown
